@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699311097 source:o:\software_courses\my_iti_44\c\assignments\lab4\remove_all_chars_except_alphabetical\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,18 @@
+      /*
+          from experiment note that the second byte value for the following extended keys are :
+
+          Up = 72
+
+          Down = 80
+
+          Left = 75
+
+          Right = 77
+
+          and the ASCII for the following normal keys are :
+
+          Enter = 13
+
+          Escape = 27
+
+          */
